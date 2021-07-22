@@ -7,4 +7,3 @@ Our website includes 3 major features:
 2. Enhanced Review system & Size Fit Assistant
 3. Option to Resell
 
-This project is Under-Development.
